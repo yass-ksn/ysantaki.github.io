@@ -1,0 +1,8 @@
+td /* touteles cellules des tableaux... */
+{
+    border: 1px solid black; /*auront une bordure de couleur noire*/
+}
+
+table
+{
+    border-collapse: collapse;
